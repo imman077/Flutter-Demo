@@ -1,6 +1,6 @@
 # 📱 Flutter UI Collection – Individual Interfaces
 
-This repository contains multiple **independent Flutter UI interfaces**, each developed for learning, practice, and UI prototyping. All interfaces are organized within a single Flutter project, but they are logically separated and demonstrate different app designs.
+This repository contains multiple **independent Flutter UI interfaces**, each developed for learning, practice, and UI prototyping. 
 
 ## 🔍 Included UIs
 
