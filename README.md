@@ -1,15 +1,30 @@
+# 📱 Flutter UI Collection – Individual Interfaces
 
-# 🛠️ Multi-Feature Flutter App
+This repository contains multiple **independent Flutter UI interfaces**, each developed for learning, practice, and UI prototyping. All interfaces are organized within a single Flutter project, but they are logically separated and demonstrate different app designs.
 
-This is a multifunctional Flutter application that brings together several mini-apps into one seamless experience. It is designed for learning, UI prototyping, and showcasing Flutter capabilities across diverse domains.
+## 🔍 Included UIs
 
-## ✨ Features
+- 🏍️ **Bike App UI**  
+  UI design for a bike service or rental application.
 
-- 🏍️ **Bike App** – Service request and bike details interface.
-- 🍛 **Biryani Shop** – UI for a food-ordering experience focused on biryani varieties.
-- 🍗 **Chicken App** – Shop UI focused on chicken-based dishes with product listing.
-- 📝 **Feedback Form** – Collect user feedback using a clean and structured form.
-- 🖼️ **Google Photos Clone** – UI replica of the Google Photos app.
-- 🎓 **Student Details System** – A module to manage and display student data.
-- ✅ **To-Do List** – Task management app with add/delete functionality.
-- 💬 **WhatsApp UI Clone** – Chat interface resembling WhatsApp including chat list and messages screen.
+- 🍛 **Biryani Shop UI**  
+  A food delivery interface focused on biryani items.
+
+- 🍗 **Chicken Shop UI**  
+  Similar to the biryani shop, but for chicken-based dishes.
+
+- 📝 **Feedback Form**  
+  A simple user feedback form with fields and validation.
+
+- 🖼️ **Google Photos UI Clone**  
+  Replicates the layout of the Google Photos application.
+
+- 🎓 **Student Details UI**  
+  Displays student data in a clean and formatted way.
+
+- ✅ **To-Do List UI**  
+  Basic to-do list with task adding and deleting.
+
+- 💬 **WhatsApp Chat UI Clone**  
+  Chat list and message screen inspired by WhatsApp.
+
